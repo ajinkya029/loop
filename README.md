@@ -566,7 +566,7 @@ The project brief specifies Node.js 18 LTS or newer, PostgreSQL, an AI API key, 
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ajinkya029/loop.git
 
 cd loop
 ```
